@@ -6,7 +6,7 @@
 
 I build **data platforms, analytics systems and intelligent applications** - from data pipelines and warehouses to machine learning and cloud deployment.
 
-📍 Tunisia · Open to a **6-month final-year internship - 2027**
+Open to a **6-month final-year internship - 2027**
 
 </div>
 
@@ -86,6 +86,5 @@ Collaborative digital handbook created following an international Erasmus+ train
 
 `Data Engineering` · `Business Intelligence` · `Data Analytics` · `AI / ML` · `Software Engineering`
 
-Open to relocation across **France and Europe**.
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
