@@ -5,7 +5,7 @@
     alt=""
   />
 
-  <h1>Hi, I'm Syrine Maaref 👋</h1>
+  <h1>Hi, I'm Syrine Maaref </h1>
   <p><strong>Software Engineering · Data · BI · AI</strong></p>
 
   <img
@@ -30,15 +30,15 @@
   <img src="https://komarev.com/ghpvc/?username=syrinemrf&amp;label=Profile%20views&amp;color=7C3AED&amp;style=flat-square" alt="Syrine's profile view count" />
 </div>
 
-## 👋 About me
+##  About me
 
 I'm a final-year **Software Engineering** student specializing in **Business Intelligence & Artificial Intelligence**. I build end-to-end systems that connect data engineering, analytics, and applied AI — from ingestion and dimensional modeling to dashboards, prediction, APIs, and cloud deployment.
 
 I enjoy turning complex operational data into products that are **reliable enough to automate, clear enough to trust, and useful enough to act on**.
 
-- 🔭 Building complete data and AI systems, not isolated models
-- 🧭 Focused on data quality, explainability, and measurable business value
-- 🎯 Open to a **six-month final-year internship / PFE in 2027**
+- Building complete data and AI systems, not isolated models
+- Focused on data quality, explainability, and measurable business value
+- Open to a **six-month final-year internship / PFE in 2027**
 
 ---
 
