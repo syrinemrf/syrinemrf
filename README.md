@@ -32,13 +32,12 @@
 
 ##  About me
 
-I'm a final-year **Software Engineering** student specializing in **Business Intelligence & Artificial Intelligence**. I build end-to-end systems that connect data engineering, analytics, and applied AI — from ingestion and dimensional modeling to dashboards, prediction, APIs, and cloud deployment.
+I'm a final-year **Software Engineering** student specializing in **Business Intelligence & Artificial Intelligence**. I build end-to-end systems that connect data engineering, analytics, and applied AI : from ingestion and dimensional modeling to dashboards, prediction, APIs, and cloud deployment.
 
 I enjoy turning complex operational data into products that are **reliable enough to automate, clear enough to trust, and useful enough to act on**.
 
 - Building complete data and AI systems, not isolated models
 - Focused on data quality, explainability, and measurable business value
-- Open to a **six-month final-year internship / PFE in 2027**
 
 ---
 
